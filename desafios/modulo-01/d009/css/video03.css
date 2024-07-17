@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ body {
+    background-color: #000000;
+}
+
+div.center{
+    color: #ffffff;
+    text-align: center;
+}
+
+div.curso-completo {
+    text-align: center;
+    padding: 15px;
+}
+
+div.curso-completo a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+div.curso-completo a:hover{
+    text-decoration: underline;
+}

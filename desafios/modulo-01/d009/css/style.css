@@ -1,0 +1,16 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ body {
+    background-color: #000000;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+div.videos {
+    text-align: center;
+}
